@@ -1,3 +1,3 @@
 # Move Book
 
-This is a repository for [Move Book](https://move-book.com).
+This is a repository for [Move Book](https://move.pontem.network).

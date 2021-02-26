@@ -12,7 +12,7 @@ And the best of all at the moment: [Move IDE for VSCode](https://marketplace.vis
 As an active Move enthusiast and a guy who wrote 2 out of 3 currently available packages for Move language I gurarantee you that Move IDE for VSCode is the best option you've got. Let's see what's inside:
 
 - Full syntax support for both Move and Mvir;
-- [Move Language Server](https://github.com/dfinance/move-language-server) integrated into IDE which provides error highlights, code verification and import checks
+- [Move Language Server](https://github.com/dfinance/move-tools) integrated into IDE which provides error highlights, code verification and import checks
 - Fully customizable environment for your projects with ability to set custom Move dialect, use different versions of Standard Library or compiler within the directory
 - It provides you with standard of organizing your Move project and aims to make this standard true
 
